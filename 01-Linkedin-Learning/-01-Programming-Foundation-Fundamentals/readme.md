@@ -15,5 +15,6 @@
 - Learning about other languages
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](![image](https://user-images.githubusercontent.com/108306948/176967058-b230793a-fdbe-410f-9b19-4763cdb11c51.png)
+)
 
