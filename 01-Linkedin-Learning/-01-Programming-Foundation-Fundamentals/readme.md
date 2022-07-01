@@ -15,4 +15,4 @@
 - Learning about other languages
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/4d1530557c18abb6f1a468efeb971c75d63c6f66c5bb653510ae3d1f48bdddba?trk=share_certificate/)
