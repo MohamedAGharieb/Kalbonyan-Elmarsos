@@ -1,8 +1,7 @@
-guess = input("What's my favorite food? ")
+# Prints out the name of a favorite city
+def favorite_city(name):
+    print("One of my favorite cities is", name)
 
-if guess == "meat":
-    print("Yep! So amazing!")
-else:
-    print("Yuck! That’s not it!")
-
-print("Thanks for playing!")
+favorite_city("Paris, France")
+favorite_city("ATokyo, Japan")
+favorite_city("Liverpool, England")
